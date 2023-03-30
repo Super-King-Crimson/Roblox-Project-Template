@@ -1,0 +1,9 @@
+[package]
+name = "fxav/touch-the-sky"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+SleitSignal = "sleitnick/signal@1.4.2"
+Table = "minstrix/table@0.4.1"

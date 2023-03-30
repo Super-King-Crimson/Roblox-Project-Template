@@ -1,0 +1,8 @@
+[package]
+name = "minstrix/table"
+version = "0.4.1"
+description = "Utilities for tables and arrays."
+authors = ["Minstrix"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "GNU GPLv3"
